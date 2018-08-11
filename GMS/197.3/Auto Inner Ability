@@ -3,7 +3,7 @@ define(delay,#%arg1) // Adjust delay its very possible due to ping/lag you might
 Alloc(Hook,128)
 Label(Return)
 Label(Exit)
-Label(ResetAbility)
+Label(ResetAbility) 
 alloc(timer,4)
 
 Hook:
