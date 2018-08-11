@@ -15,5 +15,5 @@ db 90
 [DISABLE]
 026A59D7: // CVecCtrlMob::WorkUpdateActive: E9 ? ? ? ? 8B ? ? ? 00 00 83 ? ? 0F ? ? ? ? ? FF [Address below]
 mov eax,[edi+000004D0]
-
+ 
 dealloc(MobControl)
